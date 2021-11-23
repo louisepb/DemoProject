@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637685320 source:c:\users\epzlpb\documents\code\mechatronics\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LineLength.h"
+
+1637685409 source:c:\users\epzlpb\documents\code\mechatronics\test2\linelength.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"LineLength.h"
+
+1637685370 c:\users\epzlpb\documents\code\mechatronics\test2\linelength.h
+
